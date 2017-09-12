@@ -1,4 +1,7 @@
 Hello GIT.
+
+Test branch wijziging aangebracht.
+
 Mijn naam is Walter Mampaey.
 Ik woon te Leopoldsburg.
 
