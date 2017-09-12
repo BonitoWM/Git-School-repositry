@@ -1,2 +1,5 @@
 Hello GIT.
+
+bugfix : Iets stom gewijzigd.
+
 Mijn naam is Walter Mampaey.
